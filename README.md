@@ -1,2 +1,2 @@
-# make-make-a-puzzle
+# make-a-puzzle
 Create a Customized Puzzle
